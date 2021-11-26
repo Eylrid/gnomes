@@ -1,0 +1,1 @@
+This mod adds a Gnome workforce. It is a very early work in progress.

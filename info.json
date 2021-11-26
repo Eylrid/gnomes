@@ -1,0 +1,9 @@
+{
+    "name": "gnomes",
+    "version": "0.0.1",
+    "title": "Gnomes",
+    "author": "Eylrid",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Put gnomes to work in your buildings."
+}
